@@ -2,6 +2,10 @@
 
 ## Authentication
 https://dashboard.clerk.com
+Select a user, and in metadata,
+the user role can be changed to
+seller, for the user access the seller component page
+
 ### Configuration
 1. Webhooks
 Add endpoint
