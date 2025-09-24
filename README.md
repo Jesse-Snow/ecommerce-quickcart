@@ -33,3 +33,7 @@ Added github repo
 ## Database
 https://cloud.mongodb.com/v2/
 In Network Address, remove any, and add ip address option: accept any ip address
+
+## Upload images
+cloudniary.com
+Dashboard -> Go to Api Key -> Generate New Api Key
